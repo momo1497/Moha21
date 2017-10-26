@@ -1,0 +1,11 @@
+body{
+    background-color: #258489;
+    font-family:fantasy;
+    margin-left: 100px;
+    h1{
+        color:cornflowerblue;
+        font-size: 50px;
+         }
+    p{
+        border-top:10px red solid;
+    }
